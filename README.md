@@ -6,7 +6,7 @@ Watch this video for explanation: https://www.youtube.com/watch?v=SacogDL_4JU (I
 
 You'll need Processing 3 to run this code! https://processing.org/
 
-You'll also need MIDICSV. https://www.fourmilab.ch/webtools/midicsv/. Remember that the OUTPUT of midicsv (.csv file) will become the INPUT of the Cary-compressor. Also, realize that the OUTPUT of the Cary-decompressor (.csv file) will become the INPUT of the csvmidi, which will then output a .mid file.
+You'll also need MIDICSV. https://www.fourmilab.ch/webtools/midicsv/. Remember that the OUTPUT of midicsv (.csv file) will become the INPUT of the Cary-compressor (which will then output a .txt file). Also, realize that the OUTPUT of the Cary-decompressor (.csv file) will become the INPUT of the csvmidi (which will then output a .mid file).
 
 Anyway, MIDICSVTXT_TO_CARYCOMPRESSED.pde takes in midicsv .csv files, and converts them into cary-compressed .txt versions that are roughly 1/6 the size.
 (Open MIDICSVTXT_TO_CARYCOMPRESSED.pde and edit the fileFolder and OUTPUT_FOLDER files to where the input midicsv .csv files are, and where you wany my compressed versions of these files to go.)
