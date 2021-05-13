@@ -2,7 +2,7 @@
 
 This GitHub repo contains code that can convert between MIDICSV .csvs, and a compressed format of .txt file that's roughly 1/6 the size, which I will call "Cary-compressed".
 
-Watch this video for explanation: https://www.youtube.com/watch?v=SacogDL_4JU (I wrote this in March 2017 and May 2017, and haven't really updated it since. Nowadays, I'd probably write this in Python, but oh well)
+Watch this video for explanation: https://www.youtube.com/watch?v=SacogDL_4JU (I wrote this in March 2017, and haven't really updated it since. Nowadays, I'd probably write this in Python, but oh well)
 
 You'll need Processing 3 to run this code! https://processing.org/
 
