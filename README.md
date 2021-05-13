@@ -10,4 +10,4 @@ You'll also need MIDICSV. https://www.fourmilab.ch/webtools/midicsv/. Remember t
 
 To run the compressor code, open MIDICSVTXT_TO_CARYCOMPRESSED/MIDICSVTXT_TO_CARYCOMPRESSED.pde in Processing, change the filepaths at the top few lines, and click "Run".
 
-To run the decompressor code, open CARYCOMPRESSED_TO_MIDICSVTXT/CARYCOMPRESSED_TO_MIDICSVTXT.pde, change the filepaths at the top few lines, and click "Run".
+To run the decompressor code, open CARYCOMPRESSED_TO_MIDICSVTXT/CARYCOMPRESSED_TO_MIDICSVTXT.pde in Processing, change the filepaths at the top few lines, and click "Run".
